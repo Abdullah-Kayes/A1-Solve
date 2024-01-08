@@ -1,0 +1,126 @@
+/* banner related styles */
+.cont {
+    background-image: url('Images/Banner\ Image.png');
+    display: flex;
+    height: 800px;
+    width: 85%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+    background-position: center;
+    margin-top: 50px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.text1 {
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;
+    margin-bottom: -40px;
+}
+
+.text2 {
+    color: white;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 1000;
+}
+
+/* discount and 24photo related styles */
+
+.discount {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    margin-bottom: 48px;
+}
+
+.ptext {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    padding-top: 0;
+    margin-top: -95px;
+
+}
+
+.AC {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: -20px;
+}
+
+.pic {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+
+/* 2024 banner styles */
+
+.banner24 {
+    background-image: url('Images/Vectorrr.png');
+    display: flex;
+    height: 800px;
+    width: 85%;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 16px;
+    background-position: center;
+}
+
+.text24 {
+    color: #FFF;
+    display: block;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-weight: 500;
+    letter-spacing: 7.04px;
+    padding-left: 50px;
+}
+
+.text24p {
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 40px;
+
+}
+
+.joinnow {
+    color: #FFF;
+    text-align: left;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 50px ;
+}
+
+.img24{
+width: 319.83px;
+height: 464.662px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-left: 140px;
+padding-top: 160px;
+}
