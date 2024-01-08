@@ -161,7 +161,7 @@
     margin-top: -15px;
 }
 
-.gift-pic{
+.gift-pic {
     padding-left: 145px;
     display: flex;
     gap: 21px;
@@ -169,11 +169,96 @@
     width: 500px;
 }
 
-.gift-pic{
+.gift-pic {
     padding-left: 145px;
     display: flex;
     gap: 21px;
     height: 550px;
     width: 500px;
     margin-top: 21px;
+}
+
+/* subscribe related styles */
+
+.subscribe {
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    height: 630px;
+    width: 85%;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 80px;
+}
+
+.sub-sec {
+    padding-top: 80px;
+}
+
+.sub-img {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.sub-title {
+    color: #070211;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+
+.sub-msg {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -20px;
+
+}
+
+.input {
+    padding-top: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    /* margin: 0 auto; */
+}
+
+.email {
+    border-radius: 50px;
+    background: #FFF;
+    width: 500px;
+    height: 70px;
+    border: 0;
+}
+
+.email::placeholder {
+    color: rgba(7, 2, 17, 0.30);
+    text-align: left;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 35px;
+}
+
+.sub-btn {
+    margin-left: -35px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    width: 180px;
+    height: 70px;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
 }
