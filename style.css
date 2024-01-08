@@ -92,7 +92,8 @@
     font-size: 64px;
     font-weight: 500;
     letter-spacing: 7.04px;
-    padding-left: 50px;
+    padding-left: 90px;
+
 }
 
 .text24p {
@@ -100,27 +101,79 @@
     font-family: Inter;
     font-size: 18px;
     font-weight: 400;
-    line-height: 30px;
     padding-bottom: 40px;
 
 }
 
-.joinnow {
-    color: #FFF;
+.join-btn {
+    color: black;
+    background-color: gold;
     text-align: left;
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
+    height: 50px;
+    width: 200px;
     text-transform: uppercase;
-    padding-left: 50px ;
+    padding-left: 50px;
+    border: 0;
 }
 
-.img24{
-width: 319.83px;
-height: 464.662px;
-display: flex;
-justify-content: center;
-align-items: center;
-padding-left: 140px;
-padding-top: 160px;
+.img24 {
+    width: 319.83px;
+    height: 464.662px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 180px;
+    padding-top: 180px;
+}
+
+/* gifts related styles */
+
+.gift-cont {
+    padding-left: 145px;
+    margin-top: 90px;
+}
+
+.gifts {
+    color: #F00;
+    font-family: Inter;
+    font-size: 28px;
+    font-weight: 500;
+    padding-bottom: -20px;
+}
+
+.portfo {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 35px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: -20px;
+}
+
+.gifts-des {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -15px;
+}
+
+.gift-pic{
+    padding-left: 145px;
+    display: flex;
+    gap: 21px;
+    height: 550px;
+    width: 500px;
+}
+
+.gift-pic{
+    padding-left: 145px;
+    display: flex;
+    gap: 21px;
+    height: 550px;
+    width: 500px;
+    margin-top: 21px;
 }
