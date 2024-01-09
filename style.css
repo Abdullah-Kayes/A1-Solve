@@ -181,6 +181,88 @@
     margin-top: 80px;
 }
 
+/* best offer section styles */
+
+.bestoffer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    height: 600px;
+    width: 85%;
+    margin-bottom: 90px ;
+}
+
+.offer-des {
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-left: 1px
+}
+
+.nbo {
+    color: #F00;
+    text-align: left;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: -10px;
+}
+
+.co {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+    text-transform: capitalize;
+    margin-top: 22px;
+    margin-bottom: 20px;
+}
+
+.deal-text {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.ellipse {
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    width: 364.844px;
+    height: 364.844px;
+    border-radius: 563px;
+    border: 15px solid #F00;
+    padding: 30px;
+    margin-left: -15px;
+}
+
+.y24 {
+    color: #F00;
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.wish {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.grp96 {
+    padding-top: 50px;
+    height: 150px;
+    width: 150px;
+}
+
 /* gifts related styles */
 
 .gift-cont {
