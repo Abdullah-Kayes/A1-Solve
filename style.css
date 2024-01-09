@@ -190,7 +190,7 @@
     margin: 0 auto;
     height: 600px;
     width: 85%;
-    margin-bottom: 90px ;
+    margin-bottom: 90px;
 }
 
 .offer-des {
@@ -229,7 +229,7 @@
 }
 
 .ellipse {
-    align-items:center;
+    align-items: center;
     justify-content: center;
     display: flex;
     margin: 0 auto;
@@ -261,6 +261,46 @@
     padding-top: 50px;
     height: 150px;
     width: 150px;
+}
+
+/* holiday sale styles */
+
+.sale-offer {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 85%;
+}
+
+.wif {
+    color: #070211;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.hs50 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    margin-top: -8px;
+}
+
+.holiday {
+    color: #F00;
+}
+
+.sale-text {
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin-top: -7px;
+    /* width: 1068px; */
 }
 
 /* gifts related styles */
